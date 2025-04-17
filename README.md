@@ -1,4 +1,4 @@
-# 📱 LMSA Project Status Update
+# 📱 LMSA - LM Studio Android 
 
 ![Status: Closed Source](https://img.shields.io/badge/Status-Closed%20Source-red)
 ![Version: Current](https://img.shields.io/badge/Version-Current-green)
