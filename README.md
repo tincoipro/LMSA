@@ -4,6 +4,15 @@
 ![Version: Current](https://img.shields.io/badge/Version-Current-green)
 ![Release: Official](https://img.shields.io/badge/Release-Official%20Only-blue)
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/-3_QQ5AG8Q8zdxoYos9Q64f4EFd04bBrC7-uiMGnAD_ipO941PHy-lFtv1blp4SlRpY=w5120-h2880" width="150" style="display:inline-block" />
+  <img src="https://play-lh.googleusercontent.com/OFXuuaaJv5rV9QwLm7F44cWX2p45zzKvM1eW5afqqRemnWAJENf8-P4lc4sX3NQXcuw=w5120-h2880" width="150" style="display:inline-block" />
+  <img src="https://play-lh.googleusercontent.com/5-g2QuedgbiVDfofbHuvbQe4EQRS3sF3Ev-6-7f_GwFaTirVlgPy57GNezV9WLKrzA=w5120-h2880" width="150" style="display:inline-block" />
+  <img src="https://play-lh.googleusercontent.com/kStTvysrvYXJzdT3zmTdBOnAWW_pFDs2tgVGr_cDY2DWELtpKlDreolBKikRtN2EFYs=w5120-h2880" width="150" style="display:inline-block" />
+</p>
+
 ## 📋 What is LMSA?
 
 LMSA (LM Studio Assistant) is an Android front-end application for LM Studio that provides a clean, user-friendly interface to interact with language models on your Android device. It's designed with privacy in mind, offering a tracking-free and ad-free experience for users who want to leverage the power of large language models on mobile.
