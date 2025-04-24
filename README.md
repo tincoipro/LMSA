@@ -6,7 +6,7 @@
 
 ## 📸 Screenshots
 
-<p align="center">
+<p align="left">
   <img src="https://play-lh.googleusercontent.com/-3_QQ5AG8Q8zdxoYos9Q64f4EFd04bBrC7-uiMGnAD_ipO941PHy-lFtv1blp4SlRpY=w5120-h2880" width="150" style="display:inline-block" />
   <img src="https://play-lh.googleusercontent.com/OFXuuaaJv5rV9QwLm7F44cWX2p45zzKvM1eW5afqqRemnWAJENf8-P4lc4sX3NQXcuw=w5120-h2880" width="150" style="display:inline-block" />
   <img src="https://play-lh.googleusercontent.com/5-g2QuedgbiVDfofbHuvbQe4EQRS3sF3Ev-6-7f_GwFaTirVlgPy57GNezV9WLKrzA=w5120-h2880" width="150" style="display:inline-block" />
